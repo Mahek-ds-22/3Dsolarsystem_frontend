@@ -50,4 +50,3 @@ Tested and works on:
 - Chrome (latest)
 - Firefox (latest)
 - Edge (latest)
-- Safari (latest)
