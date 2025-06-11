@@ -1,0 +1,6 @@
+solar-system/
+├── index.html
+├── styles.css
+├── script.js
+├── textures/ (optional - for planet textures)
+└── README.md
