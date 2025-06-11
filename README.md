@@ -17,19 +17,6 @@ This project is a responsive 3D solar system simulation built with Three.js. It 
 
 No installation required! Just open the `index.html` file in a modern web browser.
 
-## How to Use
-
-1. Open `index.html` in your browser
-2. Use your mouse to:
-   - Left click and drag to rotate the view
-   - Right click and drag to pan
-   - Scroll to zoom in/out
-3. Adjust planet speeds using the sliders
-4. Use the control buttons to:
-   - Pause/Resume the animation
-   - Reset the camera view
-   - Toggle dark/light mode
-
 ## Technologies Used
 
 - Three.js for 3D rendering
