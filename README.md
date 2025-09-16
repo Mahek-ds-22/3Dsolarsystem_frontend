@@ -1,5 +1,7 @@
 # 3D Solar System Simulation with Three.js
 
+An interactive 3D solar system built with **React**, **Three.js (@react-three/fiber)**, and **Tailwind CSS**.
+
 This project is a responsive 3D solar system simulation built with Three.js. It features all 8 planets orbiting the Sun with adjustable speeds, interactive controls, and additional bonus features.
 
 ## Features
